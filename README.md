@@ -3,6 +3,8 @@
 Projet réalisé dans le cadre du cours IA pour le Web (IIM A4).
 Objectif : entraîner un modèle CNN sur MNIST, l’exporter en ONNX, puis l’utiliser dans une interface web en HTML/CSS/JavaScript.
 
+voici le liens githubpages: https://topalmahmutali.github.io/projet-onnx-web/
+
 ---
 
 ## Structure du projet
