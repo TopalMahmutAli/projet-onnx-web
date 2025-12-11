@@ -2,7 +2,7 @@
 ort.env.wasm.numThreads = 2;
 ort.env.wasm.simd = true;
 
-const MODEL_URL = 'model3.onnx';
+const MODEL_URL = 'model.onnx';
 const DRAW_SIZE = 320;
 const PEN_SIZE = 18;
 const PEN_COLOR = '#000';
